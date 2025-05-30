@@ -17,7 +17,7 @@ Here are a few projects I’ve worked on:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RawanYasser297&show_icons=true&theme=radical)
 
 ## 📫 Connect with me
-- LinkedIn:https://linkedin.com/in/your-rawan-yasser-3a4393318
+- LinkedIn:[https://linkedin.com/in/your-rawan-yasser-3a4393318](https://www.linkedin.com/in/rawan-yasser-3a4393318/)
 - Portfolio: [Your Website](https://your-portfolio.com)
 - Email:rawanyasser980@gmail.com
 
