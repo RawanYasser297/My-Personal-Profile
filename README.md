@@ -14,7 +14,7 @@ Here are a few projects I’ve worked on:
 - 💰 **Currency Expense Tracker** – Tkinter-based finance app with real-time currency conversion.
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RawanYasser297&show_icons=true&theme=radical)
 
 ## 📫 Connect with me
 - LinkedIn:https://linkedin.com/in/your-)](https://www.linkedin.com/in/rawan-yasser-3a4393318
